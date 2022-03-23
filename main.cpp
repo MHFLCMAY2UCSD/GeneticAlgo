@@ -1,20 +1,3 @@
-//main.cpp
-//Michael Huang
-//Dec - 3 - 2021
-
-/*
-ROBOT:
--Sensor
--Current position
-*/
-
-/*
--Empty space: 0
--Walls: 1
--Other robots: 2
--Battery: 3
-*/
-
 //Libraries
 #include <iostream>
 #include <limits>
