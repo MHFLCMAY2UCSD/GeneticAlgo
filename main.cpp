@@ -89,7 +89,7 @@ public:
         int test_year = 1900 + ltm->tm_year;
         AssertEquals(ltm->tm_mday, test_day, "Get Current Day: ");
         AssertEquals(ltm->tm_mon, test_month, "Get Current Month: ");
-        AssertEquals(1900 + ltm->tm_year, test_year, "Get Cureent Year: ");
+        AssertEquals(1900 + ltm->tm_year, test_year, "Get Current Year: ");
     }
 };
 
